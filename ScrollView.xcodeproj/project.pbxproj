@@ -56,10 +56,10 @@
 		335413AF288A01A200A1A96C /* ScrollView */ = {
 			isa = PBXGroup;
 			children = (
-				335413B0288A01A200A1A96C /* AppDelegate.swift */,
-				335413B2288A01A200A1A96C /* SceneDelegate.swift */,
-				335413B4288A01A200A1A96C /* ViewController.swift */,
 				335413B6288A01A200A1A96C /* Main.storyboard */,
+				335413B4288A01A200A1A96C /* ViewController.swift */,
+				335413B2288A01A200A1A96C /* SceneDelegate.swift */,
+				335413B0288A01A200A1A96C /* AppDelegate.swift */,
 				335413B9288A01A300A1A96C /* Assets.xcassets */,
 				335413BB288A01A300A1A96C /* LaunchScreen.storyboard */,
 				335413BE288A01A300A1A96C /* Info.plist */,
